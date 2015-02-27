@@ -18,16 +18,16 @@ AUTHOR_EMAIL="jastinmax999@gmail.com"
 
 # Define an array of commit messages
 commit_messages=(
-    "Fix: Fix bug in login page"
-    "Feat: Add new Feature for google login"
-    "Feat: Refactor user authentication"
-    "Fix: Feat: Improve UI for better UX"
-    "Fix: Optimize database queries"
-    "Fix: Fix issue with API response"
-    "Feat: Add new feature for user profile"
-    "Feat: Update dependencies and security patches"
-    "Fix: Fix broken links in documentation"
-    "Feat: Enhance performance for mobile devices"
+    "Fix: Resolve bug in authentication component"
+    "Feat: Add Google login support to authentication UI"
+    "Feat: Refactor user authentication components for better maintainability"
+    "Fix: Improve UI components for better UX and accessibility"
+    "Fix: Optimize Livewire component queries for performance"
+    "Fix: Correct issue with API response handling in Livewire components"
+    "Feat: Add new user profile UI components"
+    "Feat: Update dependencies and apply security patches"
+    "Fix: Fix broken links in documentation for TallCraftUI"
+    "Feat: Enhance performance of components for mobile responsiveness"
 )
 
 # Convert START_DATE to first day of the month
